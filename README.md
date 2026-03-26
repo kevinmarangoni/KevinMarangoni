@@ -1,55 +1,75 @@
-# Hi there! 👋 I'm Kevin Marangoni, a Fullstack Developer.
+## Sobre mim 😃
 
-<br>
+Olá! Eu sou **Kevin Pereira Marangoni**, **Desenvolvedor Full Stack Pleno** com mais de 4 anos de experiência construindo aplicações web escaláveis, performáticas e orientadas a produto.
 
- <div style="display: flex; justify-content: space-around;">
-   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
- </div>
+Atuo principalmente com **React, Next.js e Node.js**, com forte foco em **arquitetura, performance e qualidade de código**.
 
-<br>
+---
 
-## About me 😃
+## 🚀 Destaques da minha experiência
 
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+- 🧠 Desenvolvedor responsável pelo frontend do **AzulGPT**, plataforma de IA generativa com Azure OpenAI utilizada por **1.700+ colaboradores**
+- 💳 Desenvolvimento de solução integrada ao **Banco Inter**, com **15.000+ usuários**
+- 🏗️ Atuação direta na plataforma da Fitce, com foco em:
+  - Otimização de performance (**+20 pontos no Lighthouse**)
+  - Evolução de arquitetura frontend
+  - Manutenção e escalabilidade de produto em produção
+- ⚡ Entrega de aplicações com **Lighthouse Score 90+**
+- 🧩 Implementação de arquitetura **Micro-Frontend com Module Federation**
 
-I am <strong>Kevin Pereira Marangoni</strong>, a passionate <strong>Fullstack Developer</strong> with experience in various technologies. I love working with Next.js for frontend development and Express for backend. Styled Components is my go-to choice for styling web applications. I am proficient in JavaScript and TypeScript and enjoy working with Node.js for server-side applications. I also have experience with databases like MongoDB and MySQL.
+---
 
-I am always eager to learn new technologies and keep myself updated with the latest trends in web development. Open source projects interest me, and I like to contribute to the community whenever possible.
+## 🧠 Stack principal
 
-If you are looking for someone to collaborate with or have any exciting projects in mind, feel free to reach out to me. Working together would be a pleasure for me! 😊
+### Frontend
+- React.js, Next.js
+- TypeScript, JavaScript
+- Styled Components, Tailwind, Material UI
 
-- 🔭 I’m currently working on various Fullstack projects
-- 🌱 I’m currently learning more about DevOps and CI/CD
+### Backend
+- Node.js, NestJS, Express
+- REST APIs, GraphQL
 
+### Cloud & Infra
+- AWS (S3, RDS, EC2)
+- Docker
+- CI/CD com GitHub Actions
 
-## Most Used Languages
+### Arquitetura
+- Microsserviços
+- Micro-frontends
+- Sistemas distribuídos
+
+### Banco de dados
+- PostgreSQL, MongoDB, MySQL
+
+### IA Generativa
+- Azure OpenAI
+- Google Gemini
+- Integração de LLMs em produção
+
+---
+
+## 📈 O que estou fazendo agora
+
+- 🔭 Trabalhando com aplicações Fullstack em escala real  
+- 🌱 Aprofundando conhecimentos em **DevOps**, **Cloud** e arquitetura distribuída  
+- 🤝 Aberto a oportunidades e projetos desafiadores  
+
+---
+
+## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMarangoni&layout=compact&theme=vue-dark)
 
-## StreakStats 🚀
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMarangoni&show_icons=true&count_private=true&theme=vue-dark)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=KevinMarangoni&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
- ## Stats
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMarangoni&show_icons=true&count_private=true&theme=vue-dark)
+---
 
-<br>
+## 🤝 Vamos nos conectar
 
- ## Keep in touch with me 😊
+Se você busca alguém com experiência em **produtos reais, escala e arquitetura moderna**, vamos conversar.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-marangoni-1a3a17127/)
-[![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.kevinmarangoni.com)
-[![Resume](https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://www.kevinmarangoni.com/print/pt-BR)
-
-<br>
-<br>
-
-I hope you like the updated readme! Let me know if you need any further changes. Feel free to reach out if you have any questions or need any assistance. Happy coding! 😄
+[LinkedIn](https://www.linkedin.com/in/kevin-marangoni-1a3a17127/)
