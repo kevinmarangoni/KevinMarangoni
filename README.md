@@ -1,75 +1,34 @@
-## Sobre mim 😃
-
-Olá! Eu sou **Kevin Pereira Marangoni**, **Desenvolvedor Full Stack Pleno** com mais de 4 anos de experiência construindo aplicações web escaláveis, performáticas e orientadas a produto.
-
-Atuo principalmente com **React, Next.js e Node.js**, com forte foco em **arquitetura, performance e qualidade de código**.
-
+Kevin Pereira Marangoni
+Fullstack Developer (Frontend-focused) | React · Node.js · TypeScript | AI & LLMs in Production | AWS
+Desenvolvedor Fullstack com 4+ anos de experiência, especializado em frontend com React, Next.js e TypeScript. Entrego soluções completas — de features de IA generativa em produção a arquiteturas Micro-Frontend e infraestrutura AWS. Orientado a resultado, com mentalidade de dono e base acadêmica sólida (Mestre pela UNIFESP).
 ---
-
-## 🚀 Destaques da minha experiência
-
-- 🧠 Desenvolvedor responsável pelo frontend do **AzulGPT**, plataforma de IA generativa com Azure OpenAI utilizada por **1.700+ colaboradores**
-- 💳 Desenvolvimento de solução integrada ao **Banco Inter**, com **15.000+ usuários**
-- 🏗️ Atuação direta na plataforma da Fitce, com foco em:
-  - Otimização de performance (**+20 pontos no Lighthouse**)
-  - Evolução de arquitetura frontend
-  - Manutenção e escalabilidade de produto em produção
-- ⚡ Entrega de aplicações com **Lighthouse Score 90+**
-- 🧩 Implementação de arquitetura **Micro-Frontend com Module Federation**
-
+🛠️ Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+Frontend: React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Styled Components, Framer Motion, Redux, React Query, Figma, SEO, Acessibilidade (a11y)
+Backend: Node.js, NestJS, Express, REST APIs, GraphQL, WebSockets, HTTP Streaming (SSE)
+Cloud & Infra: AWS (S3, EC2, RDS, Lambda, DynamoDB), Docker, CI/CD, GitHub Actions, Redis
+Banco de Dados: PostgreSQL, MongoDB, MySQL, DynamoDB
+IA Generativa: Azure OpenAI, Google Gemini, LLMs em produção
+Qualidade: Jest, Testing Library, Cypress, Storybook, Clean Code, SOLID
 ---
-
-## 🧠 Stack principal
-
-### Frontend
-- React.js, Next.js
-- TypeScript, JavaScript
-- Styled Components, Tailwind, Material UI
-
-### Backend
-- Node.js, NestJS, Express
-- REST APIs, GraphQL
-
-### Cloud & Infra
-- AWS (S3, RDS, EC2)
-- Docker
-- CI/CD com GitHub Actions
-
-### Arquitetura
-- Microsserviços
-- Micro-frontends
-- Sistemas distribuídos
-
-### Banco de dados
-- PostgreSQL, MongoDB, MySQL
-
-### IA Generativa
-- Azure OpenAI
-- Google Gemini
-- Integração de LLMs em produção
-
+🚀 Destaques
+🧠 AzulGPT — frontend lead da plataforma de IA da Azul Linhas Aéreas (Azure OpenAI + Microsoft + Avanade), usada por 1.700+ colaboradores
+💳 Banco Inter — calculadora de emissões integrada ao Shopping do Banco Inter com 15.000+ usuários
+🏎️ Stock Car Pro Series — tecnologia de compensação de carbono que viabilizou a parceria oficial com a Orma Carbon
+🏥 Fitce — fintech com R$ 120M+ em premiações, cliente Hapvida NotreDame Intermédica. +20pts no Lighthouse
+🌱 3 SaaS climáticos criados do zero — Repenso, Orma Auto e GSS Carbon
+🔬 Pesquisador científico — publicação indexada no Scopus com 6 citações (UNIFESP)
 ---
-
-## 📈 O que estou fazendo agora
-
-- 🔭 Trabalhando com aplicações Fullstack em escala real  
-- 🌱 Aprofundando conhecimentos em **DevOps**, **Cloud** e arquitetura distribuída  
-- 🤝 Aberto a oportunidades e projetos desafiadores  
-
----
-
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMarangoni&layout=compact&theme=vue-dark)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMarangoni&show_icons=true&count_private=true&theme=vue-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinMarangoni&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ---
-
-## 🤝 Vamos nos conectar
-
-Se você busca alguém com experiência em **produtos reais, escala e arquitetura moderna**, vamos conversar.
-
-[LinkedIn](https://www.linkedin.com/in/kevin-marangoni-1a3a17127/)
+🤝 Contato
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)
